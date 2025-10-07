@@ -1,4 +1,4 @@
-## Hi there 👋
+## INFO 591
 
 <!--
 **cc4289/cc4289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 MLIS Grad Student
+  Working on a PBC in Archives, Drexel University.
+👯 Work
+  Library Staff (CSW-V) and Museum Visitor Services Rep.
+🎨 Graphic Design
+  Illustrating a 300 page graphic novel, working with clients on character design.
+🤔 Newbie
+  Learning GitHub!
