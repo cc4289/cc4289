@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 MLIS Grad Student <hr>
-  -Working on a PBC in Archives, Drexel University. <br>
-👯 Work <hr>
-  Library Staff (CSW-V) and Museum Visitor Services Rep. <br>
-🎨 Graphic Design <hr>
-  Illustrating a 300 page graphic novel, working with clients on character design. <br>
-🤔 Newbie <hr>
-  Learning GitHub! <br>
+📚 MLIS Grad Student <br>
+  -Working on a PBC in Archives, Drexel University. <hr>
+👯 Work <br>
+  Library Staff (CSW-V) and Museum Visitor Services Rep. <hr>
+🎨 Graphic Design <br>
+  Illustrating a 300 page graphic novel, working with clients on character design. <hr>
+🤔 Newbie <br>
+  Learning GitHub! <hr>
